@@ -1,0 +1,43 @@
+@import 'UTF-8';
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.conteudo-1 {
+    text-align: center;
+    padding: 40px;
+}
+
+.titulo-nome {
+    text-align: center;
+    padding: 40px;
+}
+
+.img-1 {
+    width: 40%;
+    height: 50%;
+}
+
+.paragrafo-url {
+    text-decoration: none;
+    padding: 40px;
+}
+
+a {
+    color: blue;
+    cursor: pointer;
+}
+
+.conteudo-2 {
+    text-align: center;
+    padding: 40px;
+}
+
+.btn-none {
+    text-decoration: none;
+}
+

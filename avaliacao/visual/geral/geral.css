@@ -1,0 +1,38 @@
+@import 'UTF-8';
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    cursor: pointer;
+}
+
+.titulo-1 {
+    padding: 40px;
+    text-align: center;
+}
+
+.conteudo-1 {
+    padding: 40px;
+    text-align: center;
+}
+
+.conteudo-2 {
+    padding: 40px;
+    text-align: center;
+}
+
+.img-1 {
+    width: 40%;
+    height: 50%;
+}
+
+.btn-none {
+    color: blue;
+}
