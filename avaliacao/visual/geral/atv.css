@@ -1,0 +1,113 @@
+@import 'UTF-8';
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    margin-left: 120px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 10vh;
+    background-color: rgba(0, 0, 0, 0.842);
+}
+
+#title-header {
+    color: white;
+    font-size: 2.3em;
+}
+
+.flex-main {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-top: 2%;
+    text-align: center;
+    margin: 20px;
+}
+
+.content-section {
+    padding: 0%;
+    margin: 0%;
+}
+
+.color-div {
+    width: 20%;
+    padding: 50px;
+    margin-left: 20px;
+}
+
+#image-space {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    margin-left: 1vw;
+}
+
+.image-div {
+    height: 10vh;
+    width: 50vw;
+}
+
+#image-together {
+    margin-top: 200px;
+    display: flex; 
+    justify-content: center; 
+    gap: 0px; 
+}
+
+.image-div-together {
+    flex: 1; 
+    max-width: 150px; 
+}
+
+.image-div-together img {
+    width: 100%; 
+    height: 10vh; 
+}
+
+
+#one {
+    margin-left: 30px;
+    background-color: chocolate;
+}
+
+#two {
+    margin-left: 230px;
+    background-color: cadetblue;
+}
+
+#three {
+    margin-left: 430px;
+    background-color: burlywood;
+}
+
+#four{
+    margin-left: 630px;
+    background-color: brown;
+}
+
+#five {
+    margin-left: 830px;
+    background-color: darkgreen;
+}
+
+footer {
+    background-color: black;
+    padding: 30px;
+    color: white;
+    text-align: center;
+}
