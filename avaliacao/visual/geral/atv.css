@@ -91,27 +91,37 @@ header {
 }
 
 #one {
-    margin-left: 50px;
+    margin-left: 150px;
     background-color: chocolate;
 }
 
 #two {
-    margin-left: 390px;
+    margin-left: 400px;
     background-color: cadetblue;
 }
 
 #three {
-    margin-left: 720px;
+    margin-left: 600px;
     background-color: burlywood;
 }
 
 #four{
-    margin-left: 1060px;
+    margin-left: 750px;
     background-color: brown;
 }
 
 #five {
-    margin-left: 1399px;
+    margin-left: 940px;
+    background-color: blueviolet;
+}
+
+#six {
+    margin-left: 1200px;
+    background-color: deeppink;
+}
+
+#seven {
+    margin-left: 1400px;
     background-color: darkgreen;
 }
 
