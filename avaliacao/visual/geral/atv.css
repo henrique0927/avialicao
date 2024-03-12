@@ -49,6 +49,12 @@ header {
     margin-left: 20px;
 }
 
+.p-div-color {
+    font-size: 1.3em;
+    font-weight: 700px;
+    color: white;
+}
+
 #image-space {
     display: flex;
     flex-direction: row;
@@ -85,27 +91,27 @@ header {
 }
 
 #one {
-    margin-left: 30px;
+    margin-left: 50px;
     background-color: chocolate;
 }
 
 #two {
-    margin-left: 230px;
+    margin-left: 390px;
     background-color: cadetblue;
 }
 
 #three {
-    margin-left: 430px;
+    margin-left: 720px;
     background-color: burlywood;
 }
 
 #four{
-    margin-left: 630px;
+    margin-left: 1060px;
     background-color: brown;
 }
 
 #five {
-    margin-left: 830px;
+    margin-left: 1399px;
     background-color: darkgreen;
 }
 
