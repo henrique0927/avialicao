@@ -80,6 +80,10 @@ header {
 }
 
 
+#btn {
+    text-align: left;
+}
+
 #one {
     margin-left: 30px;
     background-color: chocolate;
