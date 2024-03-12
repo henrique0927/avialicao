@@ -71,18 +71,21 @@ header {
 #image-together {
     margin-top: 200px;
     display: flex; 
-    justify-content: center; 
+    justify-content: center;
     gap: 0px; 
+    width: 90vw;
 }
 
 .image-div-together {
     flex: 1; 
-    max-width: 150px; 
+    max-width: 390px; 
+    height: 310px;
 }
 
 .image-div-together img {
     width: 100%; 
-    height: 10vh; 
+    height: 30vh; 
+    margin-left: 75px;
 }
 
 
